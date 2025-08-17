@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 
 
 I'm Shafaq, a Computer Science undergrad and aspiring software engineer based in India.  
 
